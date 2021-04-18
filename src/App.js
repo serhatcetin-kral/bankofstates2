@@ -14,7 +14,7 @@ function App() {
 <Route path="/register"></Route>
 <Route path="/">home</Route>
 </Switch>
-{/* ikinci*/}
+{/* ucuncugit*/}
     
     
     </div>
